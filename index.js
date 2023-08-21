@@ -55,8 +55,7 @@ let musics = [
     coverImage: "https://paglasongs.com/uploads/thumb/sft28/13558_4.jpg",
     audioSource:
       "https://paglasongs.com/files/download/id/13558"
-  },
-
+  }
 
   {
     trackName: "Waalian",
@@ -126,7 +125,7 @@ let musics = [
     coverImage: "https://i.postimg.cc/hvyGBHCW/image.jpg",
     audioSource:
       "https://cdns-preview-0.dzcdn.net/stream/c-095471cd71c784daa9eab6beb69c5848-3.mp3"
-  }
+  } 
 ];
 
 musics.forEach((item, index) => {
