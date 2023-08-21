@@ -52,7 +52,7 @@ let musics = [
     trackName: "Waalian",
     artist: "Harnoor",
     album: "Bollywood",
-    coverImage: "https://www.pagalworldl.com/uploads/thumb/sft1/307_4.jpg",
+    coverImage: "https://c.saavncdn.com/176/Waalian-Punjabi-2020-20220804080504-500x500.jpg",
     audioSource:
       "https://www.pagalworldl.com/files/download/id/307"
   },
