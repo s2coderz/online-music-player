@@ -50,11 +50,11 @@ let musics = [
 
   {
     trackName: "Mind Relax Lofi",
-    artist: "MRL MASHUP",
+    artist: "Nex Boss",
     album: "Bollywood",
     coverImage: "https://i.ytimg.com/vi/yztczzQ7NAo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoWXebWcvfxY2NiEpYbXMnuJftvw",
     audioSource:
-      "https://www.youtube.com/watch?v=B1sJg2Grt-I"
+      "https://paglasongs.com/files/download/id/13558"
   },
 
 
