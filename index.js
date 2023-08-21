@@ -49,6 +49,16 @@ let currentTrackTimeBar = document.getElementById("currentTrackTimeBar");
 let musics = [
 
   {
+    trackName: "Mind Relax Lofi",
+    artist: "MRL MASHUP",
+    album: "Bollywood",
+    coverImage: "https://i.ytimg.com/vi/yztczzQ7NAo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoWXebWcvfxY2NiEpYbXMnuJftvw",
+    audioSource:
+      "https://www.youtube.com/watch?v=B1sJg2Grt-I"
+  },
+
+
+  {
     trackName: "Waalian",
     artist: "Harnoor",
     album: "Bollywood",
