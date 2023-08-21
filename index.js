@@ -55,7 +55,7 @@ let musics = [
     coverImage: "https://i.scdn.co/image/ab67706c0000da8414f20c8760ef5372b0057855",
     audioSource:
       "https://paglasongs.com/files/download/id/13558"
-  }
+  },
 
   {
     trackName: "Waalian",
