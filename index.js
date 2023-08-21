@@ -52,7 +52,7 @@ let musics = [
     trackName: "Mind Relax Lofi",
     artist: "Nex Boss",
     album: "Bollywood",
-    coverImage: "https://thumb.mp3jio.com/thumb/sft176/87600_4.jpg",
+    coverImage: "https://i.scdn.co/image/ab67706c0000da8414f20c8760ef5372b0057855",
     audioSource:
       "https://paglasongs.com/files/download/id/13558"
   }
